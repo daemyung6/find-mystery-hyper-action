@@ -1,0 +1,5 @@
+$NUM_ENTRIES = 3
+$BUILD_ID = PatchingDemoKey
+pakchunk1001-sdfgbsd.txt	24	undefined	1001	/Windows/pakchunk1001-sdfgbsd.txt
+pakchunk1002-sdfgbsd.txt	9	undefined	1002	/Windows/pakchunk1002-sdfgbsd.txt
+pakchunk1003-sdfgbsd.txt	6	undefined	1003	/Windows/pakchunk1003-sdfgbsd.txt

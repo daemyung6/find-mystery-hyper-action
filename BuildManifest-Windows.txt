@@ -1,0 +1,6 @@
+$NUM_ENTRIES = 4
+$BUILD_ID = PatchingDemoKey
+pakchunk1001-WindowsNoEditor.pak	2065427	ver002	1001	/Windows/pakchunk1001-WindowsNoEditor.pak
+pakchunk1002-WindowsNoEditor.pak	314136325	ver002	1002	/Windows/pakchunk1002-WindowsNoEditor.pak
+pakchunk1003-WindowsNoEditor.pak	28420640	ver001	1003	/Windows/pakchunk1003-WindowsNoEditor.pak
+pakchunk1004-WindowsNoEditor.pak	771923701	ver001	1004	/Windows/pakchunk1004-WindowsNoEditor.pak
